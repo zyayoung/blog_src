@@ -1,8 +1,14 @@
 ---
 title: GomokuAI重置企划0
+categories: GomokuAI重置企划
 date: 2019-05-05 20:16:03
 tags:
+- 五子棋
 ---
+
+五子棋AI防HC重置企划
+
+<!-- more -->
 
 现在Yaa的GomokuAI有两个版本：
 1. xl-engine弱化版

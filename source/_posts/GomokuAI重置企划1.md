@@ -1,8 +1,14 @@
 ---
 title: GomokuAI重置企划1
+categories: GomokuAI重置企划
 date: 2019-05-05 20:30:54
 tags:
+- 五子棋
 ---
+
+咕价函数
+
+<!-- more -->
 
 ## xl-engine弱化版分析
 
