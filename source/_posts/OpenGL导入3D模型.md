@@ -9,15 +9,15 @@ tags:
 
 Blender模型导入OpenGL(freeglut)踩坑经历
 
+<!-- more -->
+
 ## 思路
 
-先将.blend中需要的模型导出成包含基本顶点和面的信息的.obj和.mtl文件，再在程序中读取
-
-<!-- more -->
+先将.blend中需要的模型导出成包含基本顶点和面的信息的.obj和.mtl文件，再在程序中读取。
 
 ## 核心
 
-ObjLoader类，可读取外部.obj文件并绘制。参考ChenJY的博文(OpenGL读取obj文件模型)[https://chenjiayang.me/2016/12/07/OpenGL/](December 7, 2016).
+ObjLoader类，可读取外部.obj文件并绘制。参考ChenJY的博文[OpenGL读取obj文件模型](https://chenjiayang.me/2016/12/07/OpenGL/) (December 7, 2016)
 
 ## 改
 
