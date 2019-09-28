@@ -6,19 +6,14 @@ tags:
 - 五子棋
 ---
 
-五子棋AI防HC重置企划以及准备工作
+五子棋AI重置企划以及准备工作
 
 <!-- more -->
 
 现在Yaa的GomokuAI有两个版本：
-1. xl-engine弱化版
+1. xl-engine弱化版 [Code](https://gitee.com/zyayoung/codes/dps4krwle2v790gn1qto615)
 2. 手撸菜鸡版
 
-由于HC的问题现计划重置xl-enging弱化版五子棋AI
-
-如下为HC版代码:
-
-[Code](https://gitee.com/zyayoung/codes/dps4krwle2v790gn1qto615)
 
 ## 准备工作
 
